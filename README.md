@@ -1,5 +1,8 @@
 Project student attendance
-
+Name of students: 
+Dinesh Basnet
+Ntando Shawn Mahlangu
+Marshal Chaudary
 
 Introduction:
 The student attendance Management System is a software designed and developed to track the students in educational institutions. We have developed this sophisticated software to track the students attendance, the classes the students are enrolled in. It is user friendly, and creates a smooth workflow. The feature we have included in this software are mentioned below:
